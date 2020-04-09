@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout android:padding="20dp" android:gravity="bottom" android:orientation="vertical" android:layout_height="200dp" android:layout_width="match_parent" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView android:layout_height="75dp" android:layout_width="75dp" android:src="@drawable/quiz5"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:textSize="24sp" android:text="@string/play_quiz"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:textSize="14sp" android:text="@string/www_mahmudaakhi_com"/>
+
+</LinearLayout>

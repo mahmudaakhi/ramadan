@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">QUIZ APP</string>
+    <string name="it_s_relax_time">It\'s Relax Time</string>
+    <string name="general_knowledge">General Knowledge</string>
+    <string name="islamic">Islamic</string>
+    <string name="football">Football</string>
+    <string name="cricket">Cricket</string>
+    <string name="science">Science</string>
+    <string name="todo">todo</string>
+    <string name="www_mahmudaakhi_com">www_mahmudaakhi_com</string>
+    <string name="play_quiz">Play Quiz</string>
+
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="q_1_10">Q:1/10</string>
+    <string name="score_1_10">Score:1/10</string>
+    <string name="_00_30">00:30</string>
+    <string name="what_is_the_capital_city_of_bangladesh">What is the capital city of bangladesh?</string>
+    <string name="next">Next</string>
+    <string name="quran">Quran</string>
+    <string name="dua">Dua</string>
+    <string name="hadis">Hadis</string>
+    <string name="islam_and_science">Islam and Science</string>
+    <string name="game_over">Game Over</string>
+    <string name="ok">OK</string>
+    <string name="correct_ans">Correct Ans:</string>
+    <string name="total">Total:</string>
+    <string name="correct">Correct:</string>
+    <string name="wrong">Wrong:</string>
+    <string name="play_again">Play Again</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="high_score">High Score:</string>
+</resources>
